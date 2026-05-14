@@ -15,14 +15,14 @@ public class PageState {
         return changed;
     }
     //new
-    private List<Product> lastProducts = new ArrayList<>();
+    // private List<Product> lastProducts = new ArrayList<>();
 
-    public List<Product> getLastProducts() {
-        return lastProducts;
-    }
+    // public List<Product> getLastProducts() {
+    //     return lastProducts;
+    // }
 
-    public void update(List<Product> products) {
-        this.lastProducts = products;
-    }
+    // public void update(List<Product> products) {
+    //     this.lastProducts = products;
+    // }
 
 }
