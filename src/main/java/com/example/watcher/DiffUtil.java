@@ -1,11 +1,11 @@
-// package com.example.watcher;
+package com.example.watcher;
 
-// import java.util.List;
-// import java.util.Map;
-// import java.util.stream.Collectors;
-// import java.util.Objects;
+import java.util.List;
+import java.util.Map;
+import java.util.stream.Collectors;
+import java.util.Objects;
 
-// public class DiffUtil {
+public class DiffUtil {
 
 //     public static String buildDiff(List<Product> oldList, List<Product> newList) {
 
@@ -56,4 +56,4 @@
 
 //         return sb.toString();
 //     }
-// }
+}
